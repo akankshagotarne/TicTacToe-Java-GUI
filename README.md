@@ -6,7 +6,7 @@ A simple Tic Tac Toe game built using Java Swing.
 - Two-player mode
 - Win & draw detection
 - Score tracking
-- Restart confirmation
+- Restart confirmation dialog
 - Winning line highlight
 
 ## Technologies Used
@@ -16,5 +16,6 @@ A simple Tic Tac Toe game built using Java Swing.
 
 ## How to Run
 Compile and run:
-javac TicTacToe.java
+
+javac TicTacToe.java  
 java TicTacToe
